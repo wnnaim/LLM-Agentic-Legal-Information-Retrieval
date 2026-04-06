@@ -1,4 +1,4 @@
-# ⚖️ Omnilex Agentic Retrieval Competition - Starter Repo
+# LLM Agentic Legal Information Retrieval
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-20beff.svg)](https://www.kaggle.com/competitions/llm-agentic-legal-information-retrieval/overview)
